@@ -1,3 +1,18 @@
+# Extra files
+AMF
+EST-LAT
+LUCAS
+manuscript
+
+# Exploration
+Notes.ipynb
+
+# Large files
+simulations_*.csv
+
+# Plots
+plots
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -5,6 +20,9 @@ __pycache__/
 
 # C extensions
 *.so
+
+# Editor
+.vscode
 
 # Distribution / packaging
 .Python
