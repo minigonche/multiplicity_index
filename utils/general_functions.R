@@ -246,7 +246,7 @@ plot_scatter_and_box_plot <- function(
     plot_layout(heights = c(9, 3)) # Approximate height ratio
 
   # Save the full layout
-  ggsave(paste0(plot_location), plot = final_plot, width = width, height = height, dpi = 300)
+  ggsave(paste0(plot_location), plot = final_plot, width = width, height = height, dpi = 600)
 
   return(final_plot)
 }

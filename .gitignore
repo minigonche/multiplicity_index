@@ -3,9 +3,11 @@ AMF
 EST-LAT
 LUCAS
 manuscript
+poster
 
 # Exploration
 Notes.ipynb
+
 
 # Large files
 simulations_*.csv
@@ -17,6 +19,7 @@ plots
 __pycache__/
 *.py[codz]
 *$py.class
+
 
 # C extensions
 *.so
